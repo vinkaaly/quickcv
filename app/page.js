@@ -13,7 +13,7 @@ const About = () => (
         <p className="text-sm">Ma'Soem University, semester 4</p>
         <p className="text-md">Tertarik pada pengembangan web, UI/UX design, dan analisis data.</p>
       </div>
-    </div>git init
+    </div>
   </section>
 );
 
